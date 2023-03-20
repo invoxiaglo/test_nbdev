@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "test_nbdev"
+  site-url: "https://invoxiaglo.github.io/test_nbdev"
+  description: "Test of nbdev library"
+  repo-branch: main
+  repo-url: "https://github.com/invoxiaglo/test_nbdev"
